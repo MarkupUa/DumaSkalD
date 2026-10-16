@@ -1,0 +1,31 @@
+# DumaSkalD
+
+> Official music project combining Ukrainian poetic heritage and Nordic ritual folk energy.
+
+Genres: dark ritual folk, Nordic ritual folk, cinematic folk. Song language: Ukrainian.
+English content is at the root. Ukrainian content is under /ua/ (language code uk).
+
+## Official pages
+- [Home (en)](https://dumaskald.com/)
+- [About (en)](https://dumaskald.com/about/)
+- [Discography (en)](https://dumaskald.com/releases/)
+- [Головна (uk)](https://dumaskald.com/ua/)
+- [Про проєкт (uk)](https://dumaskald.com/ua/about/)
+- [Дискографія (uk)](https://dumaskald.com/ua/releases/)
+
+## Published singles
+- [Zapovit / Заповіт](https://dumaskald.com/releases/zapovit/): single, released 2026-10-16.
+  [Українська сторінка](https://dumaskald.com/ua/releases/zapovit/)
+- [Ti, Shcho Stoiat / Ті, що стоять](https://dumaskald.com/releases/ti-shcho-stoiat/): single, released 2026-10-09.
+  [Українська сторінка](https://dumaskald.com/ua/releases/ti-shcho-stoiat/)
+- [Chorna Rika / Чорна Ріка](https://dumaskald.com/releases/chorna-rika/): single, released 2026-10-02.
+  [Українська сторінка](https://dumaskald.com/ua/releases/chorna-rika/)
+
+## Official artist profiles
+- https://open.spotify.com/artist/5XTscz9Z99X9YJG1j5FFIj
+- https://music.apple.com/si/artist/dumaskald/6811869897
+- https://www.youtube.com/@dumaskald
+- https://x.com/dumaskald
+- https://www.tiktok.com/@dumaskald
+- https://www.instagram.com/dumaskald/
+- https://www.pinterest.com/dumaskald/

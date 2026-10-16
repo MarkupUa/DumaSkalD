@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://dumaskald.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/images/dumaskald-banner.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/releases/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/" />
+  </url>
+  <url>
+    <loc>https://dumaskald.com/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/about/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/about/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/images/dumaskald-portrait.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/releases/zapovit/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/zapovit/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/zapovit/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/zapovit/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/zapovit.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/releases/ti-shcho-stoiat/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/ti-shcho-stoiat/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/ti-shcho-stoiat/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/ti-shcho-stoiat/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/ti-shcho-stoiat.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/releases/chorna-rika/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/chorna-rika/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/chorna-rika/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/chorna-rika/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/chorna-rika.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/images/dumaskald-banner.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/releases/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/" />
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/about/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/about/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/about/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/about/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/images/dumaskald-portrait.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/releases/zapovit/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/zapovit/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/zapovit/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/zapovit/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/zapovit.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/releases/ti-shcho-stoiat/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/ti-shcho-stoiat/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/ti-shcho-stoiat/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/ti-shcho-stoiat/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/ti-shcho-stoiat.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/releases/chorna-rika/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/chorna-rika/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/chorna-rika/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/chorna-rika/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/chorna-rika.webp</image:loc>
+    </image:image>
+  </url>
+</urlset>
