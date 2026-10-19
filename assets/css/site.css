@@ -39,3 +39,5 @@ img.cover{display:block;padding:0;object-fit:contain}
 .release-video .external{margin-top:16px}
 
 .page-home,.page-about{--h2-scale:.9}
+
+.release-meta .release-status{color:var(--mist)}

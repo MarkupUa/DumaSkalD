@@ -21,6 +21,10 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
 - [Chorna Rika / Чорна Ріка](https://dumaskald.com/releases/chorna-rika/): single, released 2026-10-02.
   [Українська сторінка](https://dumaskald.com/ua/releases/chorna-rika/)
 
+## Announced upcoming singles
+- [Zemlia Pamiataie / Земля пам’ятає](https://dumaskald.com/releases/zemlia-pamiataie/): scheduled for 2026-10-23; not yet listed as published.
+  [Українська сторінка](https://dumaskald.com/ua/releases/zemlia-pamiataie/) · [Spotify pre-save](https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=zemlia-pamiataie)
+
 ## Official artist profiles
 - https://open.spotify.com/artist/5XTscz9Z99X9YJG1j5FFIj
 - https://music.apple.com/si/artist/dumaskald/6811869897

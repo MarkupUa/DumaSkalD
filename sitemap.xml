@@ -25,6 +25,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://dumaskald.com/releases/zemlia-pamiataie/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/zemlia-pamiataie/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/zemlia-pamiataie/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/zemlia-pamiataie/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/zemlia-pamiataie.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://dumaskald.com/releases/zapovit/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/zapovit/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/zapovit/" />
@@ -73,6 +82,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/about/" />
     <image:image>
       <image:loc>https://dumaskald.com/assets/images/dumaskald-portrait.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/releases/zemlia-pamiataie/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/zemlia-pamiataie/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/zemlia-pamiataie/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/zemlia-pamiataie/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/zemlia-pamiataie.webp</image:loc>
     </image:image>
   </url>
   <url>
