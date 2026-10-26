@@ -23,6 +23,10 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
 - [Chorna Rika / Чорна Ріка](https://dumaskald.com/releases/chorna-rika/): single, released 2026-10-02.
   [Українська сторінка](https://dumaskald.com/ua/releases/chorna-rika/)
 
+## Announced upcoming singles
+- [Krytsia / Криця](https://dumaskald.com/releases/krytsia/): scheduled for 2026-10-30; not yet listed as published.
+  [Українська сторінка](https://dumaskald.com/ua/releases/krytsia/) · [Spotify pre-save](https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=krytsia)
+
 ## Official artist profiles
 - https://open.spotify.com/artist/5XTscz9Z99X9YJG1j5FFIj
 - https://music.apple.com/si/artist/dumaskald/6811869897
