@@ -22,6 +22,7 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://music.apple.com/si/album/zemlia-pamiataie-single/6815069468
   https://music.youtube.com/playlist?list=OLAK5uy_m0848Vu8EUvsxWqDw4XjyB6iZ-u21CDzM
   https://www.amazon.com/gp/product/B0HKND9KN4
+  Official visualizer: https://www.youtube.com/watch?v=QkL9zzdHNRU
 - [Zapovit / Заповіт](https://dumaskald.com/releases/zapovit/): single, released 2026-10-16.
   [Українська сторінка](https://dumaskald.com/ua/releases/zapovit/)
   EN: A powerful dark folk interpretation of the themes of legacy, freedom and the enduring voice of Ukrainian poetic tradition.

@@ -99,7 +99,13 @@
     "youtubeMusicUrl": "https://music.youtube.com/playlist?list=OLAK5uy_m0848Vu8EUvsxWqDw4XjyB6iZ-u21CDzM",
     "amazonMusicUrl": "",
     "deezerUrl": "",
-    "amazonUrl": "https://www.amazon.com/gp/product/B0HKND9KN4"
+    "amazonUrl": "https://www.amazon.com/gp/product/B0HKND9KN4",
+    "youtubeVideoId": "QkL9zzdHNRU",
+    "videoTitle": "DumaSkald – Zemlia Pamiataie (Земля пам’ятає) | Dark Ritual Folk",
+    "videoUploadDate": "2026-10-29T09:00:24-07:00",
+    "videoDuration": "PT2M18S",
+    "videoThumbnailUrl": "https://i.ytimg.com/vi/QkL9zzdHNRU/maxresdefault.jpg",
+    "videoSourceUrl": "https://www.youtube.com/watch?v=QkL9zzdHNRU"
   },
   {
     "id": "05",
