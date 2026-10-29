@@ -41,6 +41,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/zemlia-pamiataie.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/QkL9zzdHNRU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald – Zemlia Pamiataie (Земля пам’ятає) | Dark Ritual Folk</video:title>
+      <video:description>Zemlia Pamiataie is a dark ritual folk track about endurance, memory and the bond with the land. Heavy drums, cold drones and a restrained Ukrainian chant build toward one final thought: death is not the end. The earth remembers.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/QkL9zzdHNRU</video:player_loc>
+      <video:duration>138</video:duration>
+      <video:publication_date>2026-10-29T09:00:24-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/releases/zapovit/</loc>
@@ -134,6 +142,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/zemlia-pamiataie.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/QkL9zzdHNRU/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald – Zemlia Pamiataie (Земля пам’ятає) | Dark Ritual Folk</video:title>
+      <video:description>«Земля пам’ятає» — темний ритуальний фолк про стійкість, пам’ять і зв’язок із землею. Важкі барабани, холодний гул і стриманий український спів ведуть до фінальної думки: смерть — не кінець. Земля пам’ятає.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/QkL9zzdHNRU</video:player_loc>
+      <video:duration>138</video:duration>
+      <video:publication_date>2026-10-29T09:00:24-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/ua/releases/zapovit/</loc>
