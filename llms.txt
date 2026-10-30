@@ -14,6 +14,14 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
 - [Дискографія (uk)](https://dumaskald.com/ua/releases/)
 
 ## Published singles
+- [Krytsia / Криця](https://dumaskald.com/releases/krytsia/): single, released 2026-10-30.
+  [Українська сторінка](https://dumaskald.com/ua/releases/krytsia/)
+  EN: Krytsia is a dark ritual folk track where the spoken word is forged into steel.
+  UK: «Криця» — темний ритуальний фолк, у якому промовлене слово гартується у сталь.
+  https://open.spotify.com/album/7ggKhClxd3zqxXL6LKZb7J
+  https://music.apple.com/si/album/krytsia-single/6816969218
+  https://music.youtube.com/watch?v=q80iLx2I3-A
+  https://www.amazon.com/gp/product/B0HL9H6K27
 - [Zemlia Pamiataie / Земля пам’ятає](https://dumaskald.com/releases/zemlia-pamiataie/): single, released 2026-10-23.
   [Українська сторінка](https://dumaskald.com/ua/releases/zemlia-pamiataie/)
   EN: Zemlia Pamiataie is a dark ritual folk track about endurance, memory and the bond with the land.
@@ -52,12 +60,6 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://music.youtube.com/watch?v=GSuv0Rn51pI
   https://www.amazon.com/gp/product/B0HJV7FQ15
   Official visualizer: https://www.youtube.com/watch?v=iWiIAuZ38k8
-
-## Announced upcoming singles
-- [Krytsia / Криця](https://dumaskald.com/releases/krytsia/): scheduled for 2026-10-30; not yet listed as published.
-  [Українська сторінка](https://dumaskald.com/ua/releases/krytsia/) · [Spotify pre-save](https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=krytsia)
-  EN: Krytsia is a dark ritual folk track where the spoken word is forged into steel.
-  UK: «Криця» — темний ритуальний фолк, у якому промовлене слово гартується у сталь.
 
 ## Official artist profiles
 - https://open.spotify.com/artist/5XTscz9Z99X9YJG1j5FFIj
