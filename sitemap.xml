@@ -25,6 +25,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://dumaskald.com/releases/kameniari/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/kameniari/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/kameniari/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/kameniari/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/kameniari.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://dumaskald.com/releases/krytsia/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/krytsia/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/krytsia/" />
@@ -123,6 +132,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/about/" />
     <image:image>
       <image:loc>https://dumaskald.com/assets/images/dumaskald-portrait.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/releases/kameniari/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/kameniari/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/kameniari/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/kameniari/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/kameniari.webp</image:loc>
     </image:image>
   </url>
   <url>

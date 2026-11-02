@@ -128,5 +128,22 @@
     "amazonMusicUrl": "",
     "deezerUrl": "",
     "amazonUrl": "https://www.amazon.com/gp/product/B0HL9H6K27"
+  },
+  {
+    "id": "06",
+    "slug": "kameniari",
+    "title": "Kameniari",
+    "ukrainianTitle": "Каменярі",
+    "releaseDate": "2026-11-06",
+    "type": "Single",
+    "status": "upcoming",
+    "cover": "assets/covers/kameniari.webp",
+    "coverWidth": 800,
+    "descriptionEN": "Kameniari is a dark ritual folk track built on iron, stone and relentless rhythm.",
+    "descriptionUA": "«Каменярі» — темний ритуальний фолк, побудований на образах заліза, каменю та невпинному ритмі.",
+    "aboutTextEN": "Heavy hammers, ritual chants and Ukrainian poetic memory turn the breaking of granite into a symbol of sacrifice, endurance and the road left for those who follow.",
+    "aboutTextUA": "Важкі молоти, ритуальні співи й українська поетична пам’ять перетворюють розбивання граніту на символ жертовності, стійкості та шляху, залишеного тим, хто йде слідом.",
+    "sourceUrl": "https://distrokid.com/hyperfollow/dumaskald/kameniari",
+    "presaveUrl": "https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=kameniari"
   }
 ]
