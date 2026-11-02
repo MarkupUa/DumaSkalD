@@ -41,6 +41,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/krytsia.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/J--R6krIog4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald – Krytsia (Криця) | Dark Ritual Folk (Official Visualizer)</video:title>
+      <video:description>Krytsia is a dark ritual folk track where the spoken word is forged into steel. Heavy drums, anvil strikes and Ukrainian poetic imagery turn voice, fire and iron into a stern ceremonial chant about memory, resistance and strength.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/J--R6krIog4</video:player_loc>
+      <video:duration>202</video:duration>
+      <video:publication_date>2026-10-30T09:00:29-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/releases/zemlia-pamiataie/</loc>
@@ -151,6 +159,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/krytsia.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/J--R6krIog4/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald – Krytsia (Криця) | Dark Ritual Folk (Official Visualizer)</video:title>
+      <video:description>«Криця» — темний ритуальний фолк, у якому промовлене слово гартується у сталь. Важкі барабани, удари ковадла й образи української поезії поєднують голос, вогонь і залізо в суворий обрядовий спів про пам’ять, спротив і силу.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/J--R6krIog4</video:player_loc>
+      <video:duration>202</video:duration>
+      <video:publication_date>2026-10-30T09:00:29-07:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/ua/releases/zemlia-pamiataie/</loc>

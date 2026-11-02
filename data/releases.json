@@ -127,7 +127,13 @@
     "youtubeMusicUrl": "https://music.youtube.com/watch?v=q80iLx2I3-A",
     "amazonMusicUrl": "",
     "deezerUrl": "",
-    "amazonUrl": "https://www.amazon.com/gp/product/B0HL9H6K27"
+    "amazonUrl": "https://www.amazon.com/gp/product/B0HL9H6K27",
+    "youtubeVideoId": "J--R6krIog4",
+    "videoTitle": "DumaSkald – Krytsia (Криця) | Dark Ritual Folk (Official Visualizer)",
+    "videoUploadDate": "2026-10-30T09:00:29-07:00",
+    "videoDuration": "PT3M22S",
+    "videoThumbnailUrl": "https://i.ytimg.com/vi/J--R6krIog4/maxresdefault.jpg",
+    "videoSourceUrl": "https://www.youtube.com/watch?v=J--R6krIog4"
   },
   {
     "id": "06",

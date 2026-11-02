@@ -22,6 +22,7 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://music.apple.com/si/album/krytsia-single/6816969218
   https://music.youtube.com/watch?v=q80iLx2I3-A
   https://www.amazon.com/gp/product/B0HL9H6K27
+  Official visualizer: https://www.youtube.com/watch?v=J--R6krIog4
 - [Zemlia Pamiataie / Земля пам’ятає](https://dumaskald.com/releases/zemlia-pamiataie/): single, released 2026-10-23.
   [Українська сторінка](https://dumaskald.com/ua/releases/zemlia-pamiataie/)
   EN: Zemlia Pamiataie is a dark ritual folk track about endurance, memory and the bond with the land.
