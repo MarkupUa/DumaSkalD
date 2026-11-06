@@ -14,6 +14,14 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
 - [Дискографія (uk)](https://dumaskald.com/ua/releases/)
 
 ## Published singles
+- [Kameniari / Каменярі](https://dumaskald.com/releases/kameniari/): single, released 2026-11-06.
+  [Українська сторінка](https://dumaskald.com/ua/releases/kameniari/)
+  EN: Kameniari is a dark ritual folk track built on iron, stone and relentless rhythm.
+  UK: «Каменярі» — темний ритуальний фолк, побудований на образах заліза, каменю та невпинному ритмі.
+  https://open.spotify.com/album/7Hlj1pDQjFajuhpkxtuZ8X
+  https://music.apple.com/si/album/kameniari-single/6817318140
+  https://music.youtube.com/watch?v=yNcrjqUFSvk
+  https://www.amazon.com/gp/product/B0HLF33MNH
 - [Krytsia / Криця](https://dumaskald.com/releases/krytsia/): single, released 2026-10-30.
   [Українська сторінка](https://dumaskald.com/ua/releases/krytsia/)
   EN: Krytsia is a dark ritual folk track where the spoken word is forged into steel.
@@ -61,12 +69,6 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://music.youtube.com/watch?v=GSuv0Rn51pI
   https://www.amazon.com/gp/product/B0HJV7FQ15
   Official visualizer: https://www.youtube.com/watch?v=iWiIAuZ38k8
-
-## Announced upcoming singles
-- [Kameniari / Каменярі](https://dumaskald.com/releases/kameniari/): scheduled for 2026-11-06; not yet listed as published.
-  [Українська сторінка](https://dumaskald.com/ua/releases/kameniari/) · [Spotify pre-save](https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=kameniari)
-  EN: Kameniari is a dark ritual folk track built on iron, stone and relentless rhythm.
-  UK: «Каменярі» — темний ритуальний фолк, побудований на образах заліза, каменю та невпинному ритмі.
 
 ## Official artist profiles
 - https://open.spotify.com/artist/5XTscz9Z99X9YJG1j5FFIj
