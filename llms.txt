@@ -70,6 +70,12 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://www.amazon.com/gp/product/B0HJV7FQ15
   Official visualizer: https://www.youtube.com/watch?v=iWiIAuZ38k8
 
+## Announced upcoming singles
+- [Porohy / Пороги](https://dumaskald.com/releases/porohy/): scheduled for 2026-11-09; not yet listed as published.
+  [Українська сторінка](https://dumaskald.com/ua/releases/porohy/) · [Spotify pre-save](https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=porohy)
+  EN: Porohy is a dark ritual folk journey through the Dnipro rapids — cold water, stone, wind and iron.
+  UK: «Пороги» — темна ритуальна фолк-подорож крізь дніпровські пороги: холодна вода, камінь, вітер і залізо.
+
 ## Official artist profiles
 - https://open.spotify.com/artist/5XTscz9Z99X9YJG1j5FFIj
 - https://music.apple.com/si/artist/dumaskald/6811869897
