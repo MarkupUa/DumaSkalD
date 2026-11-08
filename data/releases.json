@@ -153,7 +153,13 @@
     "spotifyUrl": "https://open.spotify.com/album/7Hlj1pDQjFajuhpkxtuZ8X",
     "amazonUrl": "https://www.amazon.com/gp/product/B0HLF33MNH",
     "youtubeMusicUrl": "https://music.youtube.com/watch?v=yNcrjqUFSvk",
-    "appleMusicUrl": "https://music.apple.com/si/album/kameniari-single/6817318140"
+    "appleMusicUrl": "https://music.apple.com/si/album/kameniari-single/6817318140",
+    "youtubeVideoId": "nUWSvW9NJ48",
+    "videoTitle": "DumaSkald – Kameniari (Каменярі) | Ukrainian Dark Ritual Folk | Official Visualizer",
+    "videoUploadDate": "2026-11-06T08:00:12-08:00",
+    "videoDuration": "PT3M5S",
+    "videoThumbnailUrl": "https://i.ytimg.com/vi/nUWSvW9NJ48/maxresdefault.jpg",
+    "videoSourceUrl": "https://www.youtube.com/watch?v=nUWSvW9NJ48"
   },
   {
     "id": "07",

@@ -41,6 +41,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/kameniari.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nUWSvW9NJ48/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald – Kameniari (Каменярі) | Ukrainian Dark Ritual Folk | Official Visualizer</video:title>
+      <video:description>Kameniari is a dark ritual folk track built on iron, stone and relentless rhythm. Heavy hammers, ritual chants and Ukrainian poetic memory turn the breaking of granite into a symbol of sacrifice, endurance and the road left for those who follow.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/nUWSvW9NJ48</video:player_loc>
+      <video:duration>185</video:duration>
+      <video:publication_date>2026-11-06T08:00:12-08:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/releases/krytsia/</loc>
@@ -168,6 +176,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/kameniari.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/nUWSvW9NJ48/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald – Kameniari (Каменярі) | Ukrainian Dark Ritual Folk | Official Visualizer</video:title>
+      <video:description>«Каменярі» — темний ритуальний фолк, побудований на образах заліза, каменю та невпинному ритмі. Важкі молоти, ритуальні співи й українська поетична пам’ять перетворюють розбивання граніту на символ жертовності, стійкості та шляху, залишеного тим, хто йде слідом.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/nUWSvW9NJ48</video:player_loc>
+      <video:duration>185</video:duration>
+      <video:publication_date>2026-11-06T08:00:12-08:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/ua/releases/krytsia/</loc>
