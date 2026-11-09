@@ -168,7 +168,7 @@
     "ukrainianTitle": "Пороги",
     "releaseDate": "2026-11-09",
     "type": "Single",
-    "status": "upcoming",
+    "status": "released",
     "cover": "assets/covers/porohy.webp",
     "coverWidth": 800,
     "descriptionEN": "Porohy is a dark ritual folk journey through the Dnipro rapids — cold water, stone, wind and iron.",
@@ -176,6 +176,8 @@
     "aboutTextEN": "A song of movement, memory and the meeting of the northern road with the Ukrainian steppe.",
     "aboutTextUA": "Пісня про рух, пам’ять і зустріч північного шляху з українським степом.",
     "sourceUrl": "https://distrokid.com/hyperfollow/dumaskald/porohy",
-    "presaveUrl": "https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=porohy"
+    "spotifyUrl": "https://open.spotify.com/album/5vjID8S205gVllc5U9RYOF",
+    "amazonUrl": "https://www.amazon.com/gp/product/B0HLG2KQ5T",
+    "itunesUrl": "https://music.apple.com/us/album/porohy-single/6817331826?uo=4"
   }
 ]
