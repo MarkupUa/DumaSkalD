@@ -32,6 +32,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/porohy.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5iExSYIGCto/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald — Пороги (Porohy) | Ukrainian Dark Ritual Folk | Official Visualizer</video:title>
+      <video:description>Porohy is a dark ritual folk journey through the Dnipro rapids — cold water, stone, wind and iron. A song of movement, memory and the meeting of the northern road with the Ukrainian steppe.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5iExSYIGCto</video:player_loc>
+      <video:duration>192</video:duration>
+      <video:publication_date>2026-11-08T21:00:00-08:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/releases/kameniari/</loc>
@@ -167,6 +175,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/porohy.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/5iExSYIGCto/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald — Пороги (Porohy) | Ukrainian Dark Ritual Folk | Official Visualizer</video:title>
+      <video:description>«Пороги» — темна ритуальна фолк-подорож крізь дніпровські пороги: холодна вода, камінь, вітер і залізо. Пісня про рух, пам’ять і зустріч північного шляху з українським степом.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/5iExSYIGCto</video:player_loc>
+      <video:duration>192</video:duration>
+      <video:publication_date>2026-11-08T21:00:00-08:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/ua/releases/kameniari/</loc>
