@@ -25,6 +25,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://dumaskald.com/releases/pid-tym-samym-misiatcem/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/pid-tym-samym-misiatcem/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/pid-tym-samym-misiatcem/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/pid-tym-samym-misiatcem/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/pid-tym-samym-misiatcem.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://dumaskald.com/releases/porohy/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/porohy/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/porohy/" />
@@ -165,6 +174,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/about/" />
     <image:image>
       <image:loc>https://dumaskald.com/assets/images/dumaskald-portrait.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/releases/pid-tym-samym-misiatcem/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/pid-tym-samym-misiatcem/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/pid-tym-samym-misiatcem/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/pid-tym-samym-misiatcem/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/pid-tym-samym-misiatcem.webp</image:loc>
     </image:image>
   </url>
   <url>

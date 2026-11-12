@@ -81,6 +81,12 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://www.amazon.com/gp/product/B0HJV7FQ15
   Official visualizer: https://www.youtube.com/watch?v=iWiIAuZ38k8
 
+## Announced upcoming singles
+- [Pid tym samym misiatcem / Під тим самим місяцем](https://dumaskald.com/releases/pid-tym-samym-misiatcem/): scheduled for 2026-11-16; not yet listed as published.
+  [Українська сторінка](https://dumaskald.com/ua/releases/pid-tym-samym-misiatcem/) · [Spotify pre-save](https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=pid-tym-samym-misiatcem)
+  EN: A quiet night song by DumaSkalD about time, inner freedom and a voice that must not be lost.
+  UK: «Під тим самим місяцем» — тиха нічна пісня DumaSkalD про час, внутрішню свободу й голос, який не можна втратити.
+
 ## Official artist profiles
 - https://open.spotify.com/artist/5XTscz9Z99X9YJG1j5FFIj
 - https://music.apple.com/si/artist/dumaskald/6811869897

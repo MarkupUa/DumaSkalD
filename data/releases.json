@@ -187,5 +187,22 @@
     "videoSourceUrl": "https://www.youtube.com/watch?v=5iExSYIGCto",
     "youtubeMusicUrl": "https://music.youtube.com/watch?v=7B4jA91CC3Q",
     "appleMusicUrl": "https://music.apple.com/si/album/porohy-single/6817331826"
+  },
+  {
+    "id": "08",
+    "slug": "pid-tym-samym-misiatcem",
+    "title": "Pid tym samym misiatcem",
+    "ukrainianTitle": "Під тим самим місяцем",
+    "releaseDate": "2026-11-16",
+    "type": "Single",
+    "status": "upcoming",
+    "cover": "assets/covers/pid-tym-samym-misiatcem.webp",
+    "coverWidth": 800,
+    "descriptionEN": "A quiet night song by DumaSkalD about time, inner freedom and a voice that must not be lost.",
+    "descriptionUA": "«Під тим самим місяцем» — тиха нічна пісня DumaSkalD про час, внутрішню свободу й голос, який не можна втратити.",
+    "aboutTextEN": "Cold water, the moon, smoke and one simple thought: do not give yourself away. Breathe.",
+    "aboutTextUA": "Холодна вода, місяць, дим і одна проста думка: не віддавай себе. Дихай.",
+    "sourceUrl": "https://distrokid.com/hyperfollow/dumaskald/pid-tym-samym-misiatcem",
+    "presaveUrl": "https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=pid-tym-samym-misiatcem"
   }
 ]
