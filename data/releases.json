@@ -195,7 +195,7 @@
     "ukrainianTitle": "Під тим самим місяцем",
     "releaseDate": "2026-11-16",
     "type": "Single",
-    "status": "upcoming",
+    "status": "released",
     "cover": "assets/covers/pid-tym-samym-misiatcem.webp",
     "coverWidth": 800,
     "descriptionEN": "A quiet night song by DumaSkalD about time, inner freedom and a voice that must not be lost.",
@@ -203,6 +203,9 @@
     "aboutTextEN": "Cold water, the moon, smoke and one simple thought: do not give yourself away. Breathe.",
     "aboutTextUA": "Холодна вода, місяць, дим і одна проста думка: не віддавай себе. Дихай.",
     "sourceUrl": "https://distrokid.com/hyperfollow/dumaskald/pid-tym-samym-misiatcem",
-    "presaveUrl": "https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=pid-tym-samym-misiatcem"
+    "spotifyUrl": "https://open.spotify.com/album/5GCP7G7NiiHzZJ3ElRInWV",
+    "amazonUrl": "https://www.amazon.com/gp/product/B0HLLKYLYT",
+    "appleMusicUrl": "https://music.apple.com/si/album/pid-tym-samym-misiatcem-single/6817753692",
+    "youtubeMusicUrl": "https://music.youtube.com/watch?v=PFlikYvVJTQ"
   }
 ]
