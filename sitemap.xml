@@ -32,6 +32,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/pid-tym-samym-misiatcem.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Lyoe28Ojkyw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald — Під тим самим місяцем | Чи справді ми живемо? (Dark Folk)</video:title>
+      <video:description>A quiet night song by DumaSkalD about time, inner freedom and a voice that must not be lost. Cold water, the moon, smoke and one simple thought: do not give yourself away. Breathe.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Lyoe28Ojkyw</video:player_loc>
+      <video:duration>205</video:duration>
+      <video:publication_date>2026-11-16T08:00:09-08:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/releases/porohy/</loc>
@@ -184,6 +192,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/pid-tym-samym-misiatcem.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/Lyoe28Ojkyw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald — Під тим самим місяцем | Чи справді ми живемо? (Dark Folk)</video:title>
+      <video:description>«Під тим самим місяцем» — тиха нічна пісня DumaSkalD про час, внутрішню свободу й голос, який не можна втратити. Холодна вода, місяць, дим і одна проста думка: не віддавай себе. Дихай.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/Lyoe28Ojkyw</video:player_loc>
+      <video:duration>205</video:duration>
+      <video:publication_date>2026-11-16T08:00:09-08:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/ua/releases/porohy/</loc>

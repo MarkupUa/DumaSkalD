@@ -22,6 +22,7 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://music.apple.com/si/album/pid-tym-samym-misiatcem-single/6817753692
   https://music.youtube.com/watch?v=PFlikYvVJTQ
   https://www.amazon.com/gp/product/B0HLLKYLYT
+  Official video: https://www.youtube.com/watch?v=Lyoe28Ojkyw
 - [Porohy / Пороги](https://dumaskald.com/releases/porohy/): single, released 2026-11-09.
   [Українська сторінка](https://dumaskald.com/ua/releases/porohy/)
   EN: Porohy is a dark ritual folk journey through the Dnipro rapids — cold water, stone, wind and iron.
