@@ -25,6 +25,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://dumaskald.com/releases/tuman/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/tuman/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/tuman/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/tuman/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/tuman.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>https://dumaskald.com/releases/pid-tym-samym-misiatcem/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/pid-tym-samym-misiatcem/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/pid-tym-samym-misiatcem/" />
@@ -182,6 +191,15 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/about/" />
     <image:image>
       <image:loc>https://dumaskald.com/assets/images/dumaskald-portrait.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dumaskald.com/ua/releases/tuman/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://dumaskald.com/releases/tuman/" />
+    <xhtml:link rel="alternate" hreflang="uk" href="https://dumaskald.com/ua/releases/tuman/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://dumaskald.com/releases/tuman/" />
+    <image:image>
+      <image:loc>https://dumaskald.com/assets/covers/tuman.webp</image:loc>
     </image:image>
   </url>
   <url>
