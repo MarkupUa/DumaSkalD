@@ -14,6 +14,14 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
 - [Дискографія (uk)](https://dumaskald.com/ua/releases/)
 
 ## Published singles
+- [Tuman / Туман](https://dumaskald.com/releases/tuman/): single, released 2026-11-23.
+  [Українська сторінка](https://dumaskald.com/ua/releases/tuman/)
+  EN: Step into the unknown with Tuman, a dark ritual folk journey by DumaSkalD.
+  UK: «Туман» — темна ритуальна фолк-подорож DumaSkalD у невідоме.
+  https://open.spotify.com/album/4v2WA3NlYOvE8V4Vk2R4Lh
+  https://music.apple.com/si/album/tuman-single/6822005170
+  https://music.youtube.com/watch?v=23p84LMVHxo
+  https://www.amazon.com/gp/product/B0HMRKRVML
 - [Pid tym samym misiatcem / Під тим самим місяцем](https://dumaskald.com/releases/pid-tym-samym-misiatcem/): single, released 2026-11-16.
   [Українська сторінка](https://dumaskald.com/ua/releases/pid-tym-samym-misiatcem/)
   EN: A quiet night song by DumaSkalD about time, inner freedom and a voice that must not be lost.
@@ -89,12 +97,6 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://music.youtube.com/watch?v=GSuv0Rn51pI
   https://www.amazon.com/gp/product/B0HJV7FQ15
   Official visualizer: https://www.youtube.com/watch?v=iWiIAuZ38k8
-
-## Announced upcoming singles
-- [Tuman / Туман](https://dumaskald.com/releases/tuman/): scheduled for 2026-11-23; not yet listed as published.
-  [Українська сторінка](https://dumaskald.com/ua/releases/tuman/) · [Spotify pre-save](https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=tuman)
-  EN: Step into the unknown with Tuman, a dark ritual folk journey by DumaSkalD.
-  UK: «Туман» — темна ритуальна фолк-подорож DumaSkalD у невідоме.
 
 ## Official artist profiles
 - https://open.spotify.com/artist/5XTscz9Z99X9YJG1j5FFIj

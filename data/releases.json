@@ -223,7 +223,7 @@
     "ukrainianTitle": "Туман",
     "releaseDate": "2026-11-23",
     "type": "Single",
-    "status": "upcoming",
+    "status": "released",
     "cover": "assets/covers/tuman.webp",
     "coverWidth": 800,
     "descriptionEN": "Step into the unknown with Tuman, a dark ritual folk journey by DumaSkalD.",
@@ -231,6 +231,9 @@
     "aboutTextEN": "Heavy ceremonial drums, haunting drones and Ukrainian chants lead through suffocating fog, fear and darkness.",
     "aboutTextUA": "Важкі обрядові барабани, моторошні дрони й українські співи ведуть крізь задушливий туман, страх і темряву.",
     "sourceUrl": "https://distrokid.com/hyperfollow/dumaskald/tuman",
-    "presaveUrl": "https://distrokid.com/spotify/auth/?action=hyperfollow&artistNameShortcut=dumaskald&albumIdShortcut=tuman"
+    "spotifyUrl": "https://open.spotify.com/album/4v2WA3NlYOvE8V4Vk2R4Lh",
+    "amazonUrl": "https://www.amazon.com/gp/product/B0HMRKRVML",
+    "youtubeMusicUrl": "https://music.youtube.com/watch?v=23p84LMVHxo",
+    "appleMusicUrl": "https://music.apple.com/si/album/tuman-single/6822005170"
   }
 ]
