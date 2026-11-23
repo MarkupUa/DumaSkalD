@@ -32,6 +32,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/tuman.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EpaMqabhhJQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald — Туман (Tuman) | When the Path Disappears… [Dark Ritual Folk]</video:title>
+      <video:description>Step into the unknown with Tuman, a dark ritual folk journey by DumaSkalD. Heavy ceremonial drums, haunting drones and Ukrainian chants lead through suffocating fog, fear and darkness.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/EpaMqabhhJQ</video:player_loc>
+      <video:duration>237</video:duration>
+      <video:publication_date>2026-11-23T08:00:17-08:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/releases/pid-tym-samym-misiatcem/</loc>
@@ -201,6 +209,14 @@
     <image:image>
       <image:loc>https://dumaskald.com/assets/covers/tuman.webp</image:loc>
     </image:image>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/EpaMqabhhJQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>DumaSkald — Туман (Tuman) | When the Path Disappears… [Dark Ritual Folk]</video:title>
+      <video:description>«Туман» — темна ритуальна фолк-подорож DumaSkalD у невідоме. Важкі обрядові барабани, моторошні дрони й українські співи ведуть крізь задушливий туман, страх і темряву.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/EpaMqabhhJQ</video:player_loc>
+      <video:duration>237</video:duration>
+      <video:publication_date>2026-11-23T08:00:17-08:00</video:publication_date>
+    </video:video>
   </url>
   <url>
     <loc>https://dumaskald.com/ua/releases/pid-tym-samym-misiatcem/</loc>

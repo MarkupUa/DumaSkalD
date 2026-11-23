@@ -22,6 +22,7 @@ English content is at the root. Ukrainian content is under /ua/ (language code u
   https://music.apple.com/si/album/tuman-single/6822005170
   https://music.youtube.com/watch?v=23p84LMVHxo
   https://www.amazon.com/gp/product/B0HMRKRVML
+  Official visualizer: https://www.youtube.com/watch?v=EpaMqabhhJQ
 - [Pid tym samym misiatcem / Під тим самим місяцем](https://dumaskald.com/releases/pid-tym-samym-misiatcem/): single, released 2026-11-16.
   [Українська сторінка](https://dumaskald.com/ua/releases/pid-tym-samym-misiatcem/)
   EN: A quiet night song by DumaSkalD about time, inner freedom and a voice that must not be lost.
